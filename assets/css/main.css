@@ -1954,9 +1954,8 @@ input, select, textarea {
 			}
 
 			.image.avatar img {
-				border-radius: 50%;
-				width: 120px;
-				height: 130px;
+				border-radius: 100%;
+				width: 100%;
 			}
 
 /* List */
