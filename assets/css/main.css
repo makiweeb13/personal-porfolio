@@ -1958,6 +1958,22 @@ input, select, textarea {
 				width: 100%;
 			}
 
+		.image.center {
+			place-items: center;
+		}
+
+		.image.mobile-screenshot {
+			background-color: #FFD7C4;
+			padding: 15px;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+		}
+
+		.image.mobile-screenshot img {
+			border-radius: 10px;
+		}
+
 /* List */
 
 	ol {
